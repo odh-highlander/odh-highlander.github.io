@@ -1,0 +1,7 @@
+site_name: Open Data Hub - Highlander
+site_url: https://github.com/odh-highlander
+theme: readthedocs
+nav:
+    - Home: index.md
+    - Introduction: introduction.md
+    - Architecture: architecture.md
