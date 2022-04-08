@@ -1,7 +1,28 @@
 site_name: Open Data Hub - Highlander
-site_url: https://github.com/odh-highlander
-theme: readthedocs
+site_url: https://odh-highlander.github.io/
+repo_url: https://github.com/odh-highlander
+edit_uri: https://github.com/odh-highlander/odh-highlander.github.io/tree/main/docs
+theme: 
+    name: material
+    palette:
+      - scheme: slate
+        toggle:      
+          icon: material/weather-sunny
+          name: Switch to light mode
+        primary: blue
+        accent: light blue
+      - scheme: default
+        toggle:
+          icon: material/weather-night
+          name: Switch to dark mode
+        primary: blue
+        accent: light blue
+    features:
+        - navigation.instant
+        - navigation.tracking
+        - navigation.sections
+        - navigation.indexes
+        - navigation.top
 nav:
-    - Home: index.md
     - Introduction: introduction.md
     - Architecture: architecture.md
