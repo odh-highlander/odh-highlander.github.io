@@ -4,6 +4,7 @@ repo_url: https://github.com/odh-highlander
 edit_uri: https://github.com/odh-highlander/odh-highlander.github.io/tree/main/docs
 theme: 
     name: material
+    logo: img/highlander-logo.svg
     palette:
       - scheme: slate
         toggle:      
