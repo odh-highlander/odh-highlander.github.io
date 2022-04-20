@@ -6,6 +6,8 @@
         "conda"
     ],
     "cSpell.words": [
+        "easyconfigs",
+        "jupyterlab",
         "pymdownx",
         "superfences"
     ]

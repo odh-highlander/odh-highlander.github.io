@@ -6,17 +6,17 @@ theme:
     name: material
     logo: img/highlander-logo.svg
     palette:
-      - scheme: slate
-        toggle:      
-          icon: material/weather-sunny
-          name: Switch to light mode
-        primary: blue
-        accent: light blue
       - scheme: default
         toggle:
           icon: material/weather-night
           name: Switch to dark mode
-        primary: blue
+        primary: black
+        accent: light blue
+      - scheme: slate
+        toggle:      
+          icon: material/weather-sunny
+          name: Switch to light mode
+        primary: white
         accent: light blue
     features:
         - navigation.instant
