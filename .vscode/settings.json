@@ -4,5 +4,9 @@
         "Kubernetes",
         "Lmod",
         "conda"
+    ],
+    "cSpell.words": [
+        "pymdownx",
+        "superfences"
     ]
 }
