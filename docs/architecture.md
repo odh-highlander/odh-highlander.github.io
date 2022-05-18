@@ -1,5 +1,9 @@
 # Architecture
 
+!!! note "Important, please read"
+
+    This project is a work in progress to properly refactor the initial code, which is meanwhile availablein different repos, [here](https://github.com/guimou/odh-highlander), [here](https://github.com/guimou/s2i-lmod-notebook) and [here](https://github.com/guimou/jupyter-lmod)
+
 Multiple components and mechanisms are used to create and run the environment. Let's list them and see how they work together.
 
 ## Module building

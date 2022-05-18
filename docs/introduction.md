@@ -2,6 +2,10 @@
 
 ![ODH+EasyBuild+Lmod](./img/banner.png)
 
+!!! note "Important, please read"
+
+    This project is a work in progress to properly refactor the initial code, which is meanwhile availablein different repos, [here](https://github.com/guimou/odh-highlander), [here](https://github.com/guimou/s2i-lmod-notebook) and [here](https://github.com/guimou/jupyter-lmod)
+
 **TL;DR:** container images on a data science platform like [Open Data Hub](http://opendatahub.io/) are hard to manage if you want to provide users with many different libraries or applications, moreover at various versions.
 This repo shows how you can use EasyBuild, Lmod and a shared PVC to bring thousands of those instantly in the notebook environments with a single container image! (Therefore the name of the project, "There can be only one…​")
 
