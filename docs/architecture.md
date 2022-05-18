@@ -22,10 +22,3 @@ The [jupyterlab-extension](https://github.com/odh-highlander/jupyterlab-extensio
 
 In the [jupyterlab-highlander](https://github.com/odh-highlander/jupyterlab-highlander) repository, you will find the recipe to create a JupyterLab container image that will include the necessary components and configuration to dynamically load modules from the shared library. Of course a pre-built image is available.
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
