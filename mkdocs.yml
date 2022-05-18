@@ -34,6 +34,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
     - Introduction: introduction.md
+    - JupyterLab Extension: usage.md
     - Architecture: architecture.md
 
 
